@@ -1,4 +1,4 @@
-# A FullStack React Project Toto's Restaurant 🍛🍾🥘
+# FullStack React Project Toto's Restaurant 🍛🍾🥘
 
 # Getting Started with Create React App
 
